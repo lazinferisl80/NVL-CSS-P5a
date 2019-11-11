@@ -1,0 +1,26 @@
+body{
+    
+}
+div{
+    text-align: center;
+    width: 400px;
+    border:10px solid;color: green; 
+    padding:16px solid;color: blue;
+    margin:32px solid;color: red;
+    margin-right: auto;
+    margin-left: auto;
+    }
+    
+h1{
+    text-align: center;
+    background-color:black;
+    color: white;
+}
+
+footer{
+background-color: red;
+text-align: center;
+border:10px solid;color:black;
+padding:10px;
+margin:20px;
+    } 
